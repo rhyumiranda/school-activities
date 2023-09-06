@@ -1,2 +1,1 @@
-# school-activities
-# school-activities
+# school-activitieS
