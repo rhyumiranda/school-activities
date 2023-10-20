@@ -1,3 +1,16 @@
+/*
+2. Rewrite the following if-else chain using a switch statement.
+
+If (facet == 1)
+coercion = 25.0
+Else if (facet == 2)
+coercion = 40.0
+Else if (facet == 3)
+coercion = 55.0
+Else if (facet == 4) || (facet == 5) || (facet == 6)
+coercion = 67.0
+*/
+
 #include <iostream>
 using namespace std;
 
