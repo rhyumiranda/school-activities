@@ -53,5 +53,5 @@ int main() {
     cout << "The new value of coercion is: " << coercion;
     break;
   }
-
+  return 0;
 }
